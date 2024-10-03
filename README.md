@@ -18,19 +18,27 @@
 
 ### Systems Analyst @ Intuitive Surgical Inc.
 
-**da Vinci Single Port Robotic System**
+_Develop Robotic Surgical Instruments for da Vinci Single-Port Surgical System_
 
-- Support novel robotic surgical instrument development
-- Improved motion fidelity and reduced motion inaccuracy by 75%
+**Novel Surgical Instrument Development**
 
-### Graduate Research Assistant @ Human Dynamics & Controls Lab
+- Developed software for system identification of new instrument and its integration into the Single-Port surgical system
+- Collaborated with design engineers to root cause the motion inaccuracy of a novel robotic surgical instrument
+- Implemented compensation algorithms to improve the teleoperated motion performance of multi-DOF minimal-invasive surgical instruments
+- Collaborated with clinical engineers for algorithm tuning and risk assessment
+- Implemented interruption algorithms to mitigate the overall risk of unintuitive tip motion
 
-**Personal Unique Rolling Experience - Ball-bot for Riding**
--
+**Detection of Surgical Tool Tip Anomaly with Stereo Vision**
+- Mentored intern for adopting and fine-tuning pre-trained CNN model for detection of instrument tool tip from endoscope image
+- Employed Python, OpenCV, and TensorFlow for model development, training, and evaluation
 
-**Pneumatic Sleeve Orthotics with Soft-Robotic Actuator**
+### Research Assistant @ Human Dynamics & Controls Lab
 
-- 
+_Utilize Robotic Technologies to Improve Human Locomotion Capability_
+
+**Personal Unique Rolling Experience - Self-balancing Robotic Wheelchair with Omnidirectional Maneuverability**
+
+**Pneumatic Sleeve Orthotics with Soft-Robotic Actuator for Lofstrand Crutches**
 
 **Pneumatic Ankle-Foot Orthotics**
 
