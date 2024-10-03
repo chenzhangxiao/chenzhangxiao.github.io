@@ -5,6 +5,7 @@
 - Hands-on experience with designing, building, integrating, and validating mechanical, electrical, and control systems of various mobile robots using off-the-shelf and customized components
 - Experience with writing production-level control software for teleoperated serial robotic manipulators
 - Advanced knowledge in robot dynamics, control system, motion planning, learning-based control
+- Passionate about human-centered applications, experience with locomotion biomechanics, human-robot interface, wearable devices design and evaluation, and protocol development for human subject testing
 
 
 ## EDUCATION
