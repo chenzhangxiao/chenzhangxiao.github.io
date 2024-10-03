@@ -2,9 +2,8 @@
 
 ## Education
 
-- **PhD., Mechanical Engineering @ University of Illinois at Urbana-Champaign**
-
-- **B.S., Mechanical Engineering @ University of Illinois at Urbana-Champaign** 
+- PhD., Mechanical Engineering, University of Illinois at Urbana-Champaign
+- B.S., Mechanical Engineering, University of Illinois at Urbana-Champaign 
 
 
 ## Experience
