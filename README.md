@@ -1,12 +1,19 @@
 # Human-Centered Roboticist
 
-## Education
+## SUMMARY
+
+- Hands-on experience with designing, building, integrating, and validating mechanical, electrical, and control systems of various mobile robots using off-the-shelf and customized components
+- Experience with writing production-level control software for teleoperated serial robotic manipulators
+- Advanced knowledge in robot dynamics, control system, motion planning, learning-based control
+
+
+## EDUCATION
 
 - PhD., Mechanical Engineering, University of Illinois at Urbana-Champaign
 - B.S., Mechanical Engineering, University of Illinois at Urbana-Champaign 
 
 
-## Experience
+## EXPERIENCE
 
 ### Systems Analyst @ Intuitive Surgical Inc.
 
