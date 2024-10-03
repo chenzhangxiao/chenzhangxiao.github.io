@@ -1,11 +1,11 @@
 # Human-Centered Roboticist
 
-## Education
-- PhD., Mechanical Engineering | University of Illinois at Urbana-Champaign
-- B.S., Mechanical Engineering | University of Illinois at Urbana-Champaign 
+### Education
+- PhD., Mechanical Engineering @ University of Illinois at Urbana-Champaign
+- B.S., Mechanical Engineering @ University of Illinois at Urbana-Champaign 
 
 
-## Work Experience
+### Work Experience
 **Systems Analyst @ Intuitive Surgical Inc. (_September 2022 - Present_)**
 - Robotic algorithm and control engineer
 
